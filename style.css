@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+button {
+    background-color: greenyellow;
+    border-radius: 30px;
+    border: 0;
+}
+
+.container {
+    width:100%;
+    height: 33%;
+    display: flex;
+    justify-content: center;
+}
+
+
+.aboutus {
+    padding: 10px;
+    border-radius: 45px;
+    background-color: #c9ccd6;
+    margin-top: 40px;
+    width: 20%;
+    height: 200px;
+    margin-right: 100px;
+        }
+
+
+.photo {
+        border-radius: 50%;
+        width: 10%;
+        height: 200px;
+        margin-right: 100px;
+        display: flex;
+        margin-top: 40px;
+        justify-content: right;
+}
+
+.container-2 {
+    width:100%;
+    height: 33%;
+    display: flex;
+    justify-content: center;
+}
+
+.photo-two {
+    border-radius: 50%;
+    width: 10%;
+    height: 200px;
+    margin-right: 100px;
+    display: flex;
+    margin-top: 40px;
+    justify-content: right;
+    float: left;
+}
+
+.aboutus-2 {
+    padding: 10px;
+    border-radius: 45px;
+    background-color: #c9ccd6;
+    margin-top: 40px;
+    width: 20%;
+    height: 200px;
+    margin-right: 100px;
+        }
+
